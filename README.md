@@ -20,7 +20,7 @@ The **Electricity Billing System** is a Java-based application designed to autom
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/electricity-billing-system.git
+   git clone https://github.com/sanjanasingh1818/electricity-billing-system.git
    ```
 2. Import the project into an IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans).
 3. Set up the MySQL database and import the provided schema.
