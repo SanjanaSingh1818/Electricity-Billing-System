@@ -42,7 +42,14 @@ The **Electricity Billing System** is a Java-based application designed to autom
 4. Users can view, pay, and download bills.
 
 ## Screenshots
-(Include relevant UI screenshots here)
+![Screenshot (1)](https://github.com/user-attachments/assets/69aad5f1-9a16-4cbd-b548-2a3b7c9d6581)
+
+![Screenshot (7)](https://github.com/user-attachments/assets/48df4510-b767-4d5f-afb5-ca2818f41da1)
+
+![Screenshot (6)](https://github.com/user-attachments/assets/5e08969c-15fb-440f-b2ae-9de7b96aad44)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/4c9635f7-b43f-449e-9371-3171ecb9cb60)
+
 
 ## Future Enhancements
 - Online payment integration
